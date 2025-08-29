@@ -16,7 +16,6 @@ My name is Elaine, and I am a licensed Chemical Engineer 🧪 passionate about D
 ---
 
 ### 🌱 Currently Learning:
-- 🗣️ Russian Language 🇷🇺  
 - 📆 Timeseries Forecasting 
 
 ---
@@ -28,12 +27,18 @@ My name is Elaine, and I am a licensed Chemical Engineer 🧪 passionate about D
   Time Series Forecasting (Econometrics, Prophet, TFT, Silverkite), Neural Networks 🧠  
 
 ---
-
+ 
 ### 🏅 Certifications:
-- 📆 Master Time Series Analysis and Forecasting with Python
-- 🎓 [Machine Learning Specialization by deeplearning.AI](https://coursera.org/share/7ab5ba59177c2ea00dcc464e1b069e28)  
-- 📈 [Google Advanced Data Analytics](https://www.credly.com/badges/2bcc693a-6859-4242-8582-69e5c5ee2316/linked_in_profile)  
-- 📊 [Google Data Analytics](https://www.credly.com/badges/60cbe694-b8a5-4177-8add-b96f9266e89a/linked_in_profile)  
+- 📆 **Master Time Series Analysis and Forecasting with Python**
+  - <a href="https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main" target="_blank">GitRepo</a>
+- 🎓 **Machine Learning Specialization by deeplearning.AI**
+  - <a href="https://github.com/jenelaineDC/MachineLearningSpecialization" target="_blank">GitRepo</a>
+  - <a href="https://coursera.org/share/7ab5ba59177c2ea00dcc464e1b069e28" target="_blank">Certificate</a>
+- 📈 **Google Advanced Data Analytics**
+  - <a href="https://github.com/jenelaineDC/GoogleAdvanceDataAnalytics" target="_blank">GitRepo</a>
+  - <a href="https://www.credly.com/badges/2bcc693a-6859-4242-8582-69e5c5ee2316/linked_in_profile" target="_blank">Certificate</a>
+- 📊 **Google Data Analytics**
+  - <a href="https://www.credly.com/badges/60cbe694-b8a5-4177-8add-b96f9266e89a/linked_in_profile" target="_blank">Certificate</a>
 
 
 <!--
