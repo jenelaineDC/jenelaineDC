@@ -9,9 +9,9 @@ My name is Elaine, and I am a licensed Chemical Engineer 🧪 passionate about D
 ---
 
 ### 🙋‍♀️ About Me:
-- 🌟 Aspiring Data Scientist and Machine Learning Engineer  
+- 🌟 Data Science and Machine Learning enthusiast
 - 🌏 Originally from the Philippines, currently living in Eastern Europe   
-- 🏭 7+ years of experience in manufacturing environment with strong proficiency in Lean Principles, Operational Excellence, TPM and Integrated Work Systems  
+- 🏭 7 years of experience in manufacturing environment with strong proficiency in Lean Principles, Operational Excellence, TPM and Integrated Work Systems  
 
 ---
 
