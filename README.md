@@ -11,7 +11,7 @@ My name is Elaine, and I am a licensed Chemical Engineer 🧪 passionate about D
 ### 🙋‍♀️ About Me:
 - 🌟 Aspiring Data Scientist and Machine Learning Engineer  
 - 🌏 Originally from the Philippines, currently living in Eastern Europe   
-- 🏭 7+ years of experience in manufacturing environment with strong proficiency in Lean Principles, Operational Excellence, and Integrated Work Systems  
+- 🏭 7+ years of experience in manufacturing environment with strong proficiency in Lean Principles, Operational Excellence, TPM and Integrated Work Systems  
 
 ---
 
@@ -24,7 +24,7 @@ My name is Elaine, and I am a licensed Chemical Engineer 🧪 passionate about D
 - 💻 Languages: Python 🐍  
 - 📚 Libraries & Frameworks: Scikit Learn, PyTorch, Darts, Pandas, NumPy, Matplotlib, Seaborn  
 - 🤖 ML Techniques: Regression, Classification, Clustering, Ensemble Models (XGBoost, Random Forest, CatBoost),  
-  Time Series Forecasting (Econometrics, Prophet, LSTM), Neural Networks 🧠  
+  Time Series Forecasting (Econometrics, Prophet, LSTM) and Neural Networks.  
 
 ---
  
