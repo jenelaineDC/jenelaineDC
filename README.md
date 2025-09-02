@@ -20,9 +20,9 @@ My name is Elaine, and I am a licensed Chemical Engineer 🧪 passionate about D
 
 ---
 
-### 🔧 Core Competencies:
+### 🔧 Competencies:
 - 💻 Languages: Python 🐍  
-- 📚 Libraries & Frameworks: Scikit Learn, PyTorch, Darts, Pandas, NumPy, Matplotlib, Seaborn  
+- 📚 Libraries & Frameworks: Scikit Learn, Statsmodels, PyTorch, Darts, Pandas, NumPy, Matplotlib, Seaborn  
 - 🤖 ML Techniques: Regression, Classification, Clustering, Ensemble Models (XGBoost, Random Forest, CatBoost),  
   Time Series Forecasting (Econometrics, Prophet, LSTM) and Neural Networks.  
 
