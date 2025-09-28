@@ -10,7 +10,7 @@
 - 🌟 Data Science, 🤖 Machine Learning and 💡Tech enthusiast
 - 🌏 Originally from the Philippines, currently living in Eastern Europe   
 - 🧪 Licensed Chemical Engineer
-- 🏭 7 years of experience in manufacturing environment with strong proficiency in Lean Principles, Operational Excellence, TPM and Integrated Work Systems  
+- 🏭 7 years of experience in manufacturing environment (P&G and PMI) with strong proficiency in Lean Principles, Operational Excellence, TPM and Integrated Work Systems  
 
 ---
 
