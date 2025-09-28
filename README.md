@@ -1,16 +1,15 @@
-### 👋 Hi there!
-
-My name is Elaine, and I am a licensed Chemical Engineer 🧪 passionate about Data Science 📊, Machine Learning 🤖, and Tech 💡!
+### JEN ELAINE DELA CRUZ
 
 [![Email](https://img.shields.io/badge/Email-DarkRed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jenelaine.delacruz@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jenelaineDC)
-
+[![Portfolio Repo](https://img.shields.io/badge/Repository-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jenelaineDC/DSML-PROJECTS)
 
 ---
 
 ### 🙋‍♀️ About Me:
-- 🌟 Data Science and Machine Learning enthusiast
+- 🌟 Data Science, 🤖 Machine Learning and 💡Tech enthusiast
 - 🌏 Originally from the Philippines, currently living in Eastern Europe   
+- 🧪 Licensed Chemical Engineer
 - 🏭 7 years of experience in manufacturing environment with strong proficiency in Lean Principles, Operational Excellence, TPM and Integrated Work Systems  
 
 ---
@@ -24,11 +23,12 @@ My name is Elaine, and I am a licensed Chemical Engineer 🧪 passionate about D
 - 💻 Languages: Python 🐍  
 - 📚 Libraries & Frameworks: Scikit Learn, Statsmodels, PyTorch, Darts, Pandas, NumPy, Matplotlib, Seaborn  
 - 🤖 ML Techniques: Regression, Classification, Clustering, Ensemble Models (XGBoost, Random Forest, CatBoost),  
-  Time Series Forecasting (Econometrics, Prophet, LSTM) and Neural Networks.  
+  Time Series Forecasting (Econometrics, Arima Models, Prophet) and Neural Networks (LSTM, TFT).  
 
 ---
  
 ### 🏅 Certifications:
+- 📊 **Microsoft PowerBI for Business Intelligence** ( ongoing )
 - 📆 **Master Time Series Analysis and Forecasting with Python**
   - <a href="https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main" target="_blank">GitRepo</a> | <a href="https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/blob/main/Master%20Time%20Series%20Analysis%20and%20Forecasting%20with%20Python.pdf" target="_blank">Certificate</a>
 - 🎓 **Machine Learning Specialization by deeplearning.AI**
